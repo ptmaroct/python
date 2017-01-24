@@ -21,4 +21,4 @@ def getAddress(location):
 
 #Dry running the program
 address = input("Enter Place whose address you want to find: ") 
-getAddress()
+getAddress(address)
